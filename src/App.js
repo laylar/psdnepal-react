@@ -4,6 +4,7 @@ import { BrowserRouter } from 'react-router-dom';
 // import { ConfigureStore } from './redux/configureStore';
 import './App.css';
 import Main from './components/Main.js';
+import './css/fontawesome-all.min.css';
 
 // const store = ConfigureStore();
 
